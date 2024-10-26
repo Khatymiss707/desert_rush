@@ -19,6 +19,7 @@ Avec les étapes ci dessous:
 
 ## Moodboard sonore
 Références musicales: [lien youtube](https://youtu.be/XwHrjEjvNAI?si=N8hdkJ2MVXJK7ijq)
+![moodboard sonore](/desert_rush/)
 
 ## Carte environnementale
 
