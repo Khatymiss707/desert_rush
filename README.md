@@ -19,7 +19,15 @@ Avec les étapes ci dessous:
 
 ## Moodboard sonore
 Références musicales: [lien youtube](https://youtu.be/XwHrjEjvNAI?si=N8hdkJ2MVXJK7ijq)
-![moodboard sonore](/desert_rush/)
+
+![moodboard](/desert_rush/références_moodboard/exportation/moodboard_sonore_big_luch_rush.mp3)
+
+### Description de l'ambiance sonore
+L'ambiance est enjoué et détendu avec des son de machines qui pépare le thé, la glace et autre ingrédients.
+
+Quand le joueur n'est pas assez rapide ou la commande n'est pas conforme le client grogne et un son d'échec retentit.
+
+Toutefois, si la commande est réussite et à temps, le client dit <<Yay!>> et une sonnerie de victoire se fait entendre.
 
 ## Carte environnementale
 
