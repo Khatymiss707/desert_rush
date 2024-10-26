@@ -20,7 +20,7 @@ Avec les étapes ci dessous:
 ## Moodboard sonore
 Références musicales: [lien youtube](https://youtu.be/XwHrjEjvNAI?si=N8hdkJ2MVXJK7ijq)
 
-![moodboard](/desert_rush/références_moodboard/exportation/moodboard_sonore_big_luch_rush.mp3)
+![moodboard](https://github.com/Khatymiss707/desert_rush/blob/main/r%C3%A9f%C3%A9rences_moodboard/exportation/moodboard_sonore_big_luch_rush.mp3)
 
 ### Description de l'ambiance sonore
 L'ambiance est enjoué et détendu avec des son de machines qui pépare le thé, la glace et autre ingrédients.
