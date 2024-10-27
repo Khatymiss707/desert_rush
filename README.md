@@ -29,6 +29,7 @@ Quand le joueur n'est pas assez rapide ou la commande n'est pas conforme le clie
 
 Toutefois, si la commande est réussite et à temps, le client dit <<Yay!>> et une sonnerie de victoire se fait entendre.
 
-## Carte environnementale
+## Carte environnementale 
+![carte_environnemental](https://github.com/user-attachments/assets/b88c44ec-6ccc-4ac1-8e59-77b0069fa85b)
 
 ## Schema intéractivité
