@@ -34,4 +34,7 @@ Références musicales: [Lien Youtube](https://youtu.be/XwHrjEjvNAI?si=N8hdkJ2MV
 ## Carte environnementale 
 ![carte_environnemental](https://github.com/user-attachments/assets/b88c44ec-6ccc-4ac1-8e59-77b0069fa85b)
 
+![concept_exterieur](https://github.com/user-attachments/assets/0a109958-0e16-404a-a4cb-03b9247d3771)
+
+
 ## Schema intéractivité
