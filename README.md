@@ -17,10 +17,10 @@ Avec les étapes ci dessous:
 
 ## Moodboard visuel
 Extérieur
-![moodboard]()
+![moodboard](https://github.com/Khatymiss707/desert_rush/blob/main/r%C3%A9f%C3%A9rences_moodboard/ambiance/moodboard_ambiance_exterieur.jpg)
 
 Intérieur
-![moodboard](https://github.com/Khatymiss707/desert_rush/blob/main/r%C3%A9f%C3%A9rences_moodboard/exportation/moodboard_sonore_big_luch_rush.mp3)
+![moodboard](https://github.com/Khatymiss707/desert_rush/blob/main/r%C3%A9f%C3%A9rences_moodboard/ambiance/moodboard_ambiance_interieur.jpg)
 ## Moodboard sonore
 
 ### Ambiance sonore
