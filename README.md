@@ -16,10 +16,10 @@ Avec les étapes ci dessous:
 - Transverser dans le verre initial
 
 ## Moodboard visuel
-Extérieur
+### Extérieur
 ![moodboard](https://github.com/Khatymiss707/desert_rush/blob/main/r%C3%A9f%C3%A9rences_moodboard/ambiance/moodboard_ambiance_exterieur.jpg)
 
-Intérieur
+### Intérieur
 ![moodboard](https://github.com/Khatymiss707/desert_rush/blob/main/r%C3%A9f%C3%A9rences_moodboard/ambiance/moodboard_ambiance_interieur.jpg)
 ## Moodboard sonore
 
