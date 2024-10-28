@@ -16,7 +16,11 @@ Avec les étapes ci dessous:
 - Transverser dans le verre initial
 
 ## Moodboard visuel
+Extérieur
+![moodboard]()
 
+Intérieur
+![moodboard](https://github.com/Khatymiss707/desert_rush/blob/main/r%C3%A9f%C3%A9rences_moodboard/exportation/moodboard_sonore_big_luch_rush.mp3)
 ## Moodboard sonore
 
 ### Ambiance sonore
