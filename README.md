@@ -29,17 +29,17 @@ Avec les étapes ci dessous:
 
 Références musicales: [Lien Youtube](https://youtu.be/XwHrjEjvNAI?si=N8hdkJ2MVXJK7ijq)
 
-![Masterpieces ~ A Nintendo Piano Music Collection 🎹 (Piano only)](https://www.youtube.com/watch?v=xNoYp5Ryp6E)
+[Masterpieces ~ A Nintendo Piano Music Collection 🎹 (Piano only)](https://www.youtube.com/watch?v=xNoYp5Ryp6E)
 
-![ROYALTY FREE Tutorial Background Music Tutorial Music Royalty Free Background Music for Tutorials](https://www.youtube.com/watch?v=B6nLuyVOk4k&list=PLbky1Uo8tP8CSLdGbdwFezMjDuukfUh7A&index=9)
+[ROYALTY FREE Tutorial Background Music Tutorial Music Royalty Free Background Music for Tutorials](https://www.youtube.com/watch?v=B6nLuyVOk4k&list=PLbky1Uo8tP8CSLdGbdwFezMjDuukfUh7A&index=9)
 
-![ROYALTY FREE Happy Background Music / Kid's Commercials Royalty Free Music by MUSIC4VIDEO](https://www.youtube.com/watch?v=RqnR5iZipdE&list=PLbky1Uo8tP8CSLdGbdwFezMjDuukfUh7A&index=19)
+[ROYALTY FREE Happy Background Music / Kid's Commercials Royalty Free Music by MUSIC4VIDEO](https://www.youtube.com/watch?v=RqnR5iZipdE&list=PLbky1Uo8tP8CSLdGbdwFezMjDuukfUh7A&index=19)
 
-![Vietnamese Type Beat - Vietnamese](https://www.youtube.com/watch?v=BqGY0WJtJ9k)
+[Vietnamese Type Beat - Vietnamese](https://www.youtube.com/watch?v=BqGY0WJtJ9k)
 
-![food truck instrumental](https://www.youtube.com/watch?v=0GFzXh-V8tc)
+[food truck instrumental](https://www.youtube.com/watch?v=0GFzXh-V8tc)
 
-![food-truck background](https://www.youtube.com/watch?v=hzBoIrtL7eU)
+[food-truck background](https://www.youtube.com/watch?v=hzBoIrtL7eU)
 
 ### Bruitage
 L'ambiance est enjoué et détendu avec des son de machines qui pépare le thé, la glace et autre ingrédients.
