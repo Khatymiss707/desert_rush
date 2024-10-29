@@ -59,5 +59,7 @@ Toutefois, si la commande est réussite et à temps, le client dit <<Yay!>> et u
 
 ## Schema intéractivité
 ### tutoriel
+![schema_programmation](https://github.com/user-attachments/assets/1473bbb9-7b29-4a1d-868f-cabcc482e2d7)
+
 ### jeux
 ![schema_jeux](https://github.com/Khatymiss707/desert_rush/blob/main/schema/narratif.jpg)
